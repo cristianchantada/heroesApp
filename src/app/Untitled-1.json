@@ -1,0 +1,217 @@
+{
+	"knownSymbols": {
+		"platformBrowserDynamic": [
+			{
+				"name": "platformBrowserDynamic",
+				"module": "@angular/platform-browser-dynamic",
+				"isDefault": false
+			}
+		],
+		"NgModule": [
+			{
+				"name": "NgModule",
+				"module": "@angular/core",
+				"isDefault": false
+			}
+		],
+		"RouterModule": [
+			{
+				"name": "RouterModule",
+				"module": "@angular/router",
+				"isDefault": false
+			}
+		],
+		"Routes": [
+			{
+				"name": "Routes",
+				"module": "@angular/router",
+				"isDefault": false
+			}
+		],
+		"BrowserModule": [
+			{
+				"name": "BrowserModule",
+				"module": "@angular/platform-browser",
+				"isDefault": false
+			}
+		],
+		"TestBed": [
+			{
+				"name": "TestBed",
+				"module": "@angular/core/testing",
+				"isDefault": false
+			}
+		],
+		"RouterTestingModule": [
+			{
+				"name": "RouterTestingModule",
+				"module": "@angular/router/testing",
+				"isDefault": false
+			}
+		],
+		"AppComponent": [
+			{
+				"name": "AppComponent",
+				"path": "c:\\Users\\cristian.varela\\OneDrive - GRUPO HOTUSA\\Escritorio\\Angular\\06-heroesApp\\src\\app\\app.component.ts",
+				"type": "class",
+				"isDefault": false
+			}
+		],
+		"Component": [
+			{
+				"name": "Component",
+				"module": "@angular/core",
+				"isDefault": false
+			}
+		],
+		"CommonModule": [
+			{
+				"name": "CommonModule",
+				"module": "@angular/common",
+				"isDefault": false
+			}
+		],
+		"Route": [
+			{
+				"name": "Route",
+				"module": "@angular/router",
+				"isDefault": false
+			}
+		],
+		"LayoutPageComponent": [
+			{
+				"name": "LayoutPageComponent",
+				"path": "c:\\Users\\cristian.varela\\OneDrive - GRUPO HOTUSA\\Escritorio\\Angular\\06-heroesApp\\src\\app\\heroes\\pages\\layout-page\\layout-page.component.ts",
+				"type": "class",
+				"isDefault": false
+			}
+		],
+		"LoginPageComponent": [
+			{
+				"name": "LoginPageComponent",
+				"path": "c:\\Users\\cristian.varela\\OneDrive - GRUPO HOTUSA\\Escritorio\\Angular\\06-heroesApp\\src\\app\\auth\\pages\\login-page\\login-page.component.ts",
+				"type": "class",
+				"isDefault": false
+			}
+		],
+		"AuthModule": [
+			{
+				"name": "AuthModule",
+				"path": "c:\\Users\\cristian.varela\\OneDrive - GRUPO HOTUSA\\Escritorio\\Angular\\06-heroesApp\\src\\app\\auth\\auth.module.ts",
+				"type": "class",
+				"isDefault": false
+			}
+		],
+		"RegisterPageComponent": [
+			{
+				"name": "RegisterPageComponent",
+				"path": "c:\\Users\\cristian.varela\\OneDrive - GRUPO HOTUSA\\Escritorio\\Angular\\06-heroesApp\\src\\app\\auth\\pages\\register-page\\register-page.component.ts",
+				"type": "class",
+				"isDefault": false
+			}
+		],
+		"HeroPageComponent": [
+			{
+				"name": "HeroPageComponent",
+				"path": "c:\\Users\\cristian.varela\\OneDrive - GRUPO HOTUSA\\Escritorio\\Angular\\06-heroesApp\\src\\app\\heroes\\pages\\hero-page\\hero-page.component.ts",
+				"type": "class",
+				"isDefault": false
+			}
+		],
+		"ListPageComponent": [
+			{
+				"name": "ListPageComponent",
+				"path": "c:\\Users\\cristian.varela\\OneDrive - GRUPO HOTUSA\\Escritorio\\Angular\\06-heroesApp\\src\\app\\heroes\\pages\\list-page\\list-page.component.ts",
+				"type": "class",
+				"isDefault": false
+			}
+		],
+		"NewPageComponent": [
+			{
+				"name": "NewPageComponent",
+				"path": "c:\\Users\\cristian.varela\\OneDrive - GRUPO HOTUSA\\Escritorio\\Angular\\06-heroesApp\\src\\app\\heroes\\pages\\new-page\\new-page.component.ts",
+				"type": "class",
+				"isDefault": false
+			}
+		],
+		"HeroesModule": [
+			{
+				"name": "HeroesModule",
+				"path": "c:\\Users\\cristian.varela\\OneDrive - GRUPO HOTUSA\\Escritorio\\Angular\\06-heroesApp\\src\\app\\heroes\\heroes.module.ts",
+				"type": "class",
+				"isDefault": false
+			}
+		],
+		"SearchPageComponent": [
+			{
+				"name": "SearchPageComponent",
+				"path": "c:\\Users\\cristian.varela\\OneDrive - GRUPO HOTUSA\\Escritorio\\Angular\\06-heroesApp\\src\\app\\heroes\\pages\\search-page\\search-page.component.ts",
+				"type": "class",
+				"isDefault": false
+			}
+		],
+		"MaterialModule": [
+			{
+				"name": "MaterialModule",
+				"path": "c:\\Users\\cristian.varela\\OneDrive - GRUPO HOTUSA\\Escritorio\\Angular\\06-heroesApp\\src\\app\\material\\material.module.ts",
+				"type": "class",
+				"isDefault": false
+			}
+		],
+		"Error404PageComponent": [
+			{
+				"name": "Error404PageComponent",
+				"path": "c:\\Users\\cristian.varela\\OneDrive - GRUPO HOTUSA\\Escritorio\\Angular\\06-heroesApp\\src\\app\\shared\\pages\\error404-page\\error404-page.component.ts",
+				"type": "class",
+				"isDefault": false
+			}
+		],
+		"SharedModule": [
+			{
+				"name": "SharedModule",
+				"path": "c:\\Users\\cristian.varela\\OneDrive - GRUPO HOTUSA\\Escritorio\\Angular\\06-heroesApp\\src\\app\\shared\\shared.module.ts",
+				"type": "class",
+				"isDefault": false
+			}
+		],
+		"AppRoutingModule": [
+			{
+				"name": "AppRoutingModule",
+				"path": "c:\\Users\\cristian.varela\\OneDrive - GRUPO HOTUSA\\Escritorio\\Angular\\06-heroesApp\\src\\app\\app-routing.module.ts",
+				"type": "class",
+				"isDefault": false
+			}
+		],
+		"HeroesRoutingModule": [
+			{
+				"name": "HeroesRoutingModule",
+				"path": "c:\\Users\\cristian.varela\\OneDrive - GRUPO HOTUSA\\Escritorio\\Angular\\06-heroesApp\\src\\app\\heroes\\heroes-routing.module.ts",
+				"type": "class",
+				"isDefault": false
+			}
+		],
+		"AuthRoutingModule": [
+			{
+				"name": "AuthRoutingModule",
+				"path": "c:\\Users\\cristian.varela\\OneDrive - GRUPO HOTUSA\\Escritorio\\Angular\\06-heroesApp\\src\\app\\auth\\auth-routing.module.ts",
+				"type": "class",
+				"isDefault": false
+			}
+		],
+		"AppModule": [
+			{
+				"name": "AppModule",
+				"path": "c:\\Users\\cristian.varela\\OneDrive - GRUPO HOTUSA\\Escritorio\\Angular\\06-heroesApp\\src\\app\\app.module.ts",
+				"type": "class",
+				"isDefault": false
+			}
+		],
+		"provideAnimationsAsync": [
+			{
+				"name": "provideAnimationsAsync",
+				"module": "@angular/platform-browser/animations/async",
+				"isDefault": false
+			}
+		]
+	}
+}
